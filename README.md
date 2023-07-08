@@ -3,10 +3,10 @@
 # GeeksForGeeks-POTD (July Special🔥🔥)
 This repository contains submissions (solutions) of GeeksForGeeks - POTD (Problem Of The Day). 
 
-The POTD in this repository are of **July**, 2️⃣0️⃣2️⃣3️⃣. 
+The POTD in this repository are of _July_, 2️⃣0️⃣2️⃣3️⃣. 
 
 ## What's special about July Month ? 📆🤔
-**All GeeksForGeeks - POTD in the month of July are based on popular interview questions.**
+***All GeeksForGeeks - POTD in the month of July are based on popular interview questions.***
 
 ## More about GeeksForGeeks - ![image](https://github.com/nikhilsp242/GeeksForGeeks-POTD/assets/112267674/99806be3-f4f8-4ea1-b99e-7299049bfdb7) :
 
