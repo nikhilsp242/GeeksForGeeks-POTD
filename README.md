@@ -1,4 +1,5 @@
-![image](https://github.com/nikhilsp242/GeeksForGeeks-POTD/assets/112267674/98557735-f3d7-4834-ab6b-b3bb08f349f4)
+![image](https://github.com/nikhilsp242/GeeksForGeeks-POTD/assets/112267674/3186627c-8126-4236-bc77-e9b2155c8e86)
+
 
 # GeeksForGeeks-POTD (July Special🔥🔥)
 This repository contains submissions (solutions) of GeeksForGeeks - POTD (Problem Of The Day). 
