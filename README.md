@@ -11,7 +11,7 @@ The POTD in this repository are of _July_, 2️⃣0️⃣2️⃣3️⃣.
 
 ## More about GeeksForGeeks - ![image](https://github.com/nikhilsp242/GeeksForGeeks-POTD/assets/112267674/99806be3-f4f8-4ea1-b99e-7299049bfdb7) :
 
-GeeksforGeeks (GfG) is a popular platform that provides a wide range of resources for computer science and programming topics. One of its offerings is the "Problem Of The Day" (POTD), which is a daily coding challenge aimed at improving problem-solving skills and enhancing knowledge of data structures and algorithms.
+[GeeksforGeeks](https://www.geeksforgeeks.org/) (GfG) is a popular platform that provides a wide range of resources for computer science and programming topics. One of its offerings is the "Problem Of The Day" (POTD), which is a daily coding challenge aimed at improving problem-solving skills and enhancing knowledge of data structures and algorithms.
 
 The GeeksforGeeks POTD typically consists of a daily coding problem statement. On each day users are encouraged to solve the problem using their preferred programming language and submit their solutions on the GeeksforGeeks website within that day itself.
 
