@@ -29,4 +29,5 @@ The GeeksforGeeks POTD typically consists of a daily coding problem statement. O
   - Solution to the problem in a cpp file.
   - An executable file.
 
+#### Check out today's [GeeksForGeeks - Problem of the Day!](https://practice.geeksforgeeks.org/problem-of-the-day)
 
