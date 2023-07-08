@@ -23,8 +23,10 @@ which takes the array arr[] and the size of the array (n) as inputs,
 and print 1 if the function returns true else print 0 if the function returns false.
 
 Expected Time Complexity: O(n^2)
+
 Expected Auxiliary Space: O(1)
 
 Constrains:
 1 <= n <= 10^4
+
 -10^6 <= A[i] <= 10^6
