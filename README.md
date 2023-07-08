@@ -14,7 +14,7 @@ GeeksforGeeks (GfG) is a popular platform that provides a wide range of resource
 
 The GeeksforGeeks POTD typically consists of a daily coding problem statement along with sample inputs and outputs. Users are encouraged to solve the problem using their preferred programming language and submit their solutions on the GeeksforGeeks website.
 
-The following are the contents in the repository :
+### The following are the contents in the repository :
   - Problem Statement (ScreenShot) in a markdown file.
   - Solution to the problem in a cpp file.
   - An executable file.
