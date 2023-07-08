@@ -1,4 +1,4 @@
-![Alt text](image.png)
+![Alt text](day1.png)
 
 Given an array arr[] of n integers. Check whether it contains a triplet that sums up to zero. 
 
