@@ -5,7 +5,7 @@ The following are the contents in the repository :
   - Solution to the problem in a cpp file.
   - An executable file.
 
-The PotD in this repository are mainly of July Month, 2023.
+The PotD in this repository are mainly of July, 2023.
 
 What's special about July Month ?
 -->All PotD in the month of July are based on popular interview questions.
