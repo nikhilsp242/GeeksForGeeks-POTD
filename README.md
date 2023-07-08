@@ -3,7 +3,7 @@ This repository contains submissions (solutions) of GeeksForGeeks - POTD (Proble
 
 The POTD in this repository are of July, 2023.
 
-What's special about July Month ?
+## What's special about July Month ?
 --> All GeeksForGeeks - POTD in the month of July are based on popular interview questions.
 
 More about GeeksForGeeks POTD :
