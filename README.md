@@ -1,5 +1,5 @@
 # GeeksForGeeks-POTD (July Special🔥🔥)
-This repository contains submissions(solutions) of GeeksForGeeks - POTD (Problem Of The Day). 
+This repository contains submissions (solutions) of GeeksForGeeks - POTD (Problem Of The Day). 
 
 The POTD in this repository are of July, 2023.
 
