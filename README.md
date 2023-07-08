@@ -1,4 +1,4 @@
-# GeeksForGeeks-PotD
+# GeeksForGeeks-PotD (July Special🔥🔥)
 This repository contains submissions of GeeksForGeeks - PotD (Problem Of The Day). 
 The following are the contents in the repository :
   - Problem Statement (ScreenShot) in a markdown file.
