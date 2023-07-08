@@ -28,7 +28,7 @@ We can either take i and j as 0 and 0
 or we cantake 1 and 1 both give the same result 0.
 
 ## Your Task:
-#### Complete the function maxIndexDiff() which takes array arr and size n, as input parameters and returns an integer representing the answer. You don't have to print answer or take inputs. 
+### Complete the function maxIndexDiff() which takes array arr and size n, as input parameters and returns an integer representing the answer. You don't have to print answer or take inputs. 
 
 ### Expected Time Complexity: O(N)
 ### Expected Auxiliary Space: O(N)
