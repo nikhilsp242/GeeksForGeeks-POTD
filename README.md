@@ -28,6 +28,7 @@ The GeeksforGeeks POTD typically consists of a daily coding problem statement. O
   - Problem Statement (ScreenShot) in a markdown file.
   - Solution to the problem in a cpp file.
   - An executable file.
+#### The screenshot also contains company tags 🏷️✨
 
 ### Check out today's [GeeksforGeeks - Problem of the Day!](https://practice.geeksforgeeks.org/problem-of-the-day)
 
