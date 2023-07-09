@@ -1,5 +1,5 @@
 #include<iostream>
-
+                                                                                                //HAS PASSED ALL THE TEST CASES  (1125 / 1125)
 using namespace std;
 
 class Solution{
