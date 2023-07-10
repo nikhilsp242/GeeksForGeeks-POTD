@@ -29,34 +29,3 @@ You don't need to read input or print anything. Your task is to complete the fun
 <p><span style="font-size:18px"><strong>Constraints:</strong><br>
 1 ≤ N ≤ 10<sup>9</sup></span></p>
 </div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Microsoft</code>&nbsp;<code>Samsung</code>&nbsp;<code>Adobe</code>&nbsp;<code>Wipro</code>&nbsp;<code>Brocade</code>&nbsp;<code>Juniper Networks</code>&nbsp;<code>Cisco</code>&nbsp;<code>Qualcomm</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Bit Magic</code>&nbsp;<code>Data Structures</code>&nbsp;
-
-
-![Alt text](day1.png)
-
-## Given a positive integer N, print count of set bits in it. 
-
-### Example 1:
-
-#### Input:
-N = 6
-#### Output:
-2
-#### Explanation:
-Binary representation is '110' . So the count of the set bit is 2.
-### Example 2:
-
-#### Input:
-8
-#### Output:
-1
-#### Explanation:
-Binary representation is '1000' . So the count of the set bit is 1.
-
-## Your Task:  
-### You don't need to read input or print anything. Your task is to complete the function setBits() which takes an Integer N and returns the count of number of set bits.
-
-### Expected Time Complexity: O(LogN)
-### Expected Auxiliary Space: O(1)
-
-### Constraints:
-1 ≤ N ≤ 10^9
