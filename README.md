@@ -25,10 +25,10 @@ The GeeksforGeeks POTD typically consists of a daily coding problem statement. O
 >And yes, do encourage others also to solve POTD by sharing today’s problem on Twitter. Tag [@geeksforgeeks](https://twitter.com/geeksforgeeks) and stand a chance to win surprise rewards!!
 
 ### The following are the contents in the repository :
-  - Problem Statement (ScreenShot) in a markdown file.
+  - Problem Statement in a readme file.
   - Solution to the problem in a cpp file.
   - An executable file.
-#### The screenshot also contains company tags 🏷️✨
+#### The readme file also contains topic tags and company tags 🏷️✨
 
 ### Check out today's [GeeksforGeeks - Problem of the Day!](https://practice.geeksforgeeks.org/problem-of-the-day)
 
