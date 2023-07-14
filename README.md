@@ -22,7 +22,7 @@ The GeeksforGeeks POTD typically consists of a daily coding problem statement. O
   - You must have over 50 Geek Bits to be eligible for redeeming prizes.  5️⃣0️⃣ 🪙
   - Once you’ll collect a minimum of 50 Geeks Bits, the redeem prize option will automatically pop up on your screen and then you’ll be able to redeem the preferred prize of your choice! 🤩🎁
 
->And yes, do encourage others also to solve POTD by sharing today’s problem on Twitter. Tag [@geeksforgeeks](https://twitter.com/geeksforgeeks) and stand a chance to win surprise rewards!!
+>And yes, do encourage others also to solve POTD by sharing today’s problem on Twitter. Tag [@geeksforgeeks](https://twitter.com/geeksforgeeks) and stand a chance to win surprising rewards!!
 
 ### The following are the contents in the repository :
   - Problem Statement in a readme file.
