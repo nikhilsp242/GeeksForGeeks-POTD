@@ -1,3 +1,5 @@
+![image](https://github.com/nikhilsp242/GeeksforGeeks-POTD/assets/112267674/21d6896f-20b5-4d73-8d49-015a526c0382)
+
   ![image](https://github.com/nikhilsp242/GeeksForGeeks-POTD/assets/112267674/3186627c-8126-4236-bc77-e9b2155c8e86)
 
 
