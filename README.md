@@ -1,7 +1,7 @@
-  ![image](https://github.com/nikhilsp242/GeeksforGeeks-POTD/assets/112267674/c0c93f30-db04-4c85-ba64-7efa1b6e42af)
+
 <p align="center">
   
-  <img src= "https://github.com/nikhilsp242/GeeksforGeeks-POTD/assets/112267674/48b7d562-d603-4b46-abad-00d584a4521a">
+  <img src= "https://github.com/nikhilsp242/GeeksforGeeks-POTD/assets/112267674/731c64b6-015a-4588-8289-4306f6a3b428">
 
 </p>
 
