@@ -24,10 +24,10 @@ The GeeksforGeeks POTD typically consists of a daily coding problem statement. O
 
 >And yes, do encourage others also to solve POTD by sharing today’s problem on Twitter. Tag [@geeksforgeeks](https://twitter.com/geeksforgeeks) and stand a chance to win surprising rewards!!
 
-### The following are the contents in the repository :
-  - Problem Statement in a readme file.
-  - Solution to the problem in a cpp file.
-  - An executable file.
+### Contents in the repository :
+  - The Problem Statement of each day is put in a readme file, that is webscraped from the official GfG website.
+  - Solution to each problem will be found in a cpp file, along with the number of test cases the code has passed.
+  - The folders are arranged day-wise. Each Day number represents the date in the month of July, 2023.
 #### The readme file also contains topic tags and company tags 🏷️✨
 
 ### Check out today's [GeeksforGeeks - Problem of the Day!](https://practice.geeksforgeeks.org/problem-of-the-day)
