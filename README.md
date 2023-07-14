@@ -1,8 +1,7 @@
-<p align="center">
-
   ![image](https://github.com/nikhilsp242/GeeksforGeeks-POTD/assets/112267674/c0c93f30-db04-4c85-ba64-7efa1b6e42af)
+<p align="center">
+  
   ![image](https://github.com/nikhilsp242/GeeksForGeeks-POTD/assets/112267674/3186627c-8126-4236-bc77-e9b2155c8e86)
-
 
 </p>
 
