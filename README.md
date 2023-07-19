@@ -13,7 +13,7 @@ This repository contains submissions (solutions) of GeeksforGeeks - POTD (Proble
 The POTD in this repository are of _July_, 2️⃣0️⃣2️⃣3️⃣. 
 
 ## What's special about July Month ? 📆🤔
-***All GeeksforGeeks - POTD in the month of July are based on popular interview questions.***
+***All GeeksforGeeks - POTD in the month of July are based on popular interview questions !***
 
 ## More about GeeksforGeeks - **</> POTD** :
 
@@ -23,8 +23,8 @@ The GeeksforGeeks POTD typically consists of a daily coding problem statement. O
 
 ## Okay, now, how can you avail the prizes and rewards ? 💰🏆
 
-  - First and foremost, solving one problem will earn you one Geek Bit. 1️⃣ 🪙
-  - If you successfully solve problems for 8 consecutive days you will get 8 additional Geek Bits. ➕8️⃣
+  - First and foremost, solving one problem will earn you one Geek Bit. ➕1️⃣ 🪙
+  - If you successfully solve problems for 8 consecutive days you will get 8 additional Geek Bits. ➕8️⃣ 🪙
   - You must have over 50 Geek Bits to be eligible for redeeming prizes.  5️⃣0️⃣ 🪙
   - Once you’ll collect a minimum of 50 Geeks Bits, the redeem prize option will automatically pop up on your screen and then you’ll be able to redeem the preferred prize of your choice! 🤩🎁
 
