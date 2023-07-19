@@ -8,7 +8,7 @@
 
   
 # GeeksforGeeks-POTD (July Special🔥🔥)
-This repository contains submissions (solutions) of GeeksForGeeks - POTD (Problem Of The Day). 
+This repository contains submissions (solutions) of GeeksforGeeks - POTD (Problem Of The Day). 
 
 The POTD in this repository are of _July_, 2️⃣0️⃣2️⃣3️⃣. 
 
