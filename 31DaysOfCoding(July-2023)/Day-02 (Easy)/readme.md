@@ -1,4 +1,3 @@
-![Alt text](day2.png)
 
 ## Given two numbers X and Y, and a range [L, R] where 1 <= L <= R <= 32. You have to copy the set bits of 'Y' in the range L to R in 'X'. Return this modified X.
 
