@@ -1,3 +1,2 @@
-1. You need to check day2 , it's been updated.
-2. You have solved day4 . Go through the submission in the other repo and add it .
-3. You haven't solved day5 and day6.
+1. You have solved day4 . Go through the submission in the other repo and add it .
+2. You haven't solved day5 and day6.
