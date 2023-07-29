@@ -1,2 +1,1 @@
-1. You have solved day4 . Go through the submission in the other repo and add it .
-2. You haven't solved day5 and day6.
+1. You haven't solved day5 and day6.
