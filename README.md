@@ -21,6 +21,8 @@ The POTD in this repository are of _July_, 2️⃣0️⃣2️⃣3️⃣.
 
 The GeeksforGeeks POTD typically consists of a daily coding problem statement. On each day users are encouraged to solve the problem using their preferred programming language and submit their solutions on the GeeksforGeeks website within that day itself.
 
+***Also make sure to check out all of my [GeeksforGeeks Submissions](https://github.com/nikhilsp242/GeeksforGeeks_Submissions)***
+
 ## Okay, now, how can you avail the prizes and rewards ? 💰🏆
 
   - First and foremost, solving one problem will earn you one Geek Bit. ➕1️⃣ 🪙
